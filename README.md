@@ -1,6 +1,4 @@
 # sesotho-llm-prompting
-Prompt engineering findings for Sesotho (Southern Sotho) using Claude — from a production remittance system
-
 Prompting LLMs in Sesotho: Findings from a Production System
 
 Author: Lebohang Kuenane — @kuenane
